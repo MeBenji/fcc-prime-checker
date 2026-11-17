@@ -1,0 +1,23 @@
+{
+  "name": "fcc-prime-checker",
+  "version": "1.0.0",
+  "description": "Method for checking the primeness of numbers.",
+  "keywords": [
+    "fcc",
+    "freeCodeCamp",
+    "prime",
+    "math",
+    "numbers"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeBenji/fcc-prime-checker.git"
+  },
+  "license": "MIT",
+  "author": "Benjamin Caddell",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  }
+}
